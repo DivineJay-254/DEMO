@@ -1,0 +1,7 @@
+<svg width="400" height="260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="260" rx="28" fill="#f3ebff"/>
+  <path d="M40 200l70-90 50 60 60-100 100 130H40z" fill="#5b31c5" opacity="0.35"/>
+  <circle cx="90" cy="80" r="24" fill="#7b47ff" opacity="0.6"/>
+  <text x="40" y="230" font-family="Poppins, Arial" font-size="20" fill="#5b31c5">Livelihoods Training</text>
+</svg>
+

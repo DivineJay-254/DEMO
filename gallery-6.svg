@@ -1,0 +1,6 @@
+<svg width="400" height="260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="260" rx="28" fill="#f8f2ff"/>
+  <path d="M60 210l60-100 50 70 40-80 80 110H60z" fill="#7b47ff" opacity="0.5"/>
+  <text x="60" y="70" font-family="Poppins, Arial" font-size="22" fill="#5b31c5">Community Dialogue</text>
+</svg>
+

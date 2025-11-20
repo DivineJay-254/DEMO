@@ -1,0 +1,7 @@
+<svg width="400" height="260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="260" rx="28" fill="#f4edff"/>
+  <rect x="60" y="80" width="280" height="110" rx="16" fill="#5b31c5" opacity="0.5"/>
+  <rect x="90" y="110" width="220" height="50" rx="12" fill="#5b31c5" opacity="0.8"/>
+  <text x="70" y="230" font-family="Poppins, Arial" font-size="20" fill="#5b31c5">VSLA Savings Meeting</text>
+</svg>
+
